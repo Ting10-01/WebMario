@@ -1,0 +1,137 @@
+{
+  "group-list": [
+    "default",
+    "player",
+    "platform",
+    "UI",
+    "turtle",
+    "enemybound",
+    "flower",
+    "block",
+    "seedbound",
+    "seed"
+  ],
+  "collision-matrix": [
+    [
+      true,
+      true,
+      true,
+      null,
+      true,
+      null,
+      true
+    ],
+    [
+      true,
+      false,
+      true,
+      null,
+      true,
+      null,
+      true,
+      true,
+      null,
+      true
+    ],
+    [
+      true,
+      true,
+      false,
+      null,
+      true,
+      null,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      true,
+      true,
+      true,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      true,
+      false,
+      true
+    ],
+    [
+      true,
+      true,
+      false,
+      false,
+      false,
+      true,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false,
+      false,
+      false,
+      true,
+      false
+    ]
+  ],
+  "excluded-modules": [],
+  "last-module-event-record-time": 1590831290816,
+  "design-resolution-width": 960,
+  "design-resolution-height": 640,
+  "fit-width": false,
+  "fit-height": true,
+  "use-project-simulator-setting": false,
+  "simulator-orientation": false,
+  "use-customize-simulator": true,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "assets-sort-type": "name",
+  "facebook": {
+    "appID": "",
+    "audience": {
+      "enable": false
+    },
+    "enable": false,
+    "live": {
+      "enable": false
+    }
+  },
+  "start-scene": "current"
+}
